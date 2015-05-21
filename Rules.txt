@@ -1,0 +1,47 @@
+
+                        ******************************
+                        \            K E Y           \
+                        \                            \
+                        \ Ship         :            \
+                        \                    or  \
+                        \                           \
+                        \                            \
+                        \ Water        :  °  or ±    \
+                        \                            \
+                        \ Destroyed                  \
+                        \   Ship       :            \
+                        \                            \                           
+                        \ Destroyed                  \
+                        \  Coordinate  :  °  or ±    \
+                        ******************************
+
+  T H E  R U L E S
+
+1. The game starts with player deploying 5 ships of sizes
+   2,3,4,5,6 with horizontal or vertical alignment on a 13x13
+   arena.    This is done by the player entering the 
+   alignment (V or H) followed by the coordinates entered
+   in the format
+           say K N to select the coordinate (K,N).            //P.T.O.//
+
+2. The computer then deploys its own set of 6 ships in a 
+   different arena.
+   
+
+   THE ACTION STARTS HERE!!
+
+3. In the Player's turn the Player tries to shoot down 
+   the Computer's ships in the arena where they are
+   present but are hidden from the player's view.
+   The coordinates to strike is chosen in the same way as
+   specified above
+        i.e. K N to select the coordinate (K,N).
+
+4. In the Computer's turn, the Computer strikes a coordinate
+   in Player's arena where Player's ships have been deployed.
+
+5. The Player and Computer play alternate turns till one 
+   destroys all 6 ships of the other.
+
+6. THE FIRST TO DESTROY ALL SHIPS OF THE OTHER WINS!!
+   The less no. of turns you take to win, more is your score!%
